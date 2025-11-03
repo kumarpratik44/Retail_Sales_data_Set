@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Region,Units_Sold,Unit_Price,Inventory_Stock
+101,Laptop,Electronics,North,150,60000,50
+102,Smartphone,Electronics,South,300,20000,100
+103,Headphones,Accessories,East,200,2000,150
+104,Camera,Electronics,West,120,25000,80
+105,Smartwatch,Electronics,North,250,15000,70
